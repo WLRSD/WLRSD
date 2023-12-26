@@ -46,7 +46,7 @@
 
 <p align="left">
 <img align="right" height="330em" width="330em" src="https://github-readme-stats.vercel.app/api?username=WLRSD&show_icons=true&theme=vision-friendly-dark" alt="WLRSD's stats"/>
-<img height="300em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WLRSD&layout=compact&theme=vision-friendly-dark" alt="WLRSD's most languages"/>
+<img height="310em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WLRSD&layout=compact&theme=vision-friendly-dark" alt="WLRSD's most languages"/>
 </p>
 
 
