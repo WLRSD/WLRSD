@@ -70,13 +70,15 @@
 <a href="https://www.instagram.com/warlisonbezerra/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-warlison-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFCD1E&height=120&section=footer"/>
 <!--
 <a href="https://youtube.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFCD1E&height=120&section=footer"/>
+
 
 <!--
 | Plugin | README |
