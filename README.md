@@ -2,6 +2,7 @@
 <h1 align="center">Olá <img src="https://github.com/Liliane-Zechel/kaueMarques/blob/master/hi.gif" height="30px">, Eu sou o Warlison Bezerra! </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=WLRSD&color=yellow&label=Quantos+viram" alt="Visualizações" /> </p>
 
+  
 - 🔥 Estagiário no [Banco do Brasil](https://www.bb.com.br/site/) | 🔥 Freelancer (Python | PHP | JavaScript)
 
 - 📚 atualmente me desenvolvendo no [Origamid](https://www.origamid.com/curso/) 
@@ -72,6 +73,11 @@
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFCD1E&height=120&section=footer"/>
+
+## CODEX - 30 dias de aprendizado
+
+  [Check out my progress!](https://www.codedex.io/@devraw/30-nites-of-code)  
+  ![@devraw #30NitesOfCode](https://www.codedex.io/api/petStatus?user=devraw)
 <!--
 <a href="https://youtube.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
